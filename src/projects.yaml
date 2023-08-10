@@ -1,4 +1,12 @@
 ---
+- time: 2023 Summer
+  title: Plapperdu (In Progress)
+  link: https://plapperdu.web.app
+  desc: A prototype web app for providing aid to children with speech development, with educational contents and interactive mini games.
+  image: plapperdu.png
+  tools:
+    - Vite
+
 - time: 2022 Winter
   title: Zen Garden
   link: https://github.com/ohyeahbravo/zen-garden
@@ -6,6 +14,7 @@
   image: zen-garden.png
   tools:
     - Vite
+
 - time: 2022 Winter
   title: Rhizome Typography Cyber Labor
   link: https://github.com/ohyeahbravo/rhizome-typography-cyber-labor
@@ -13,6 +22,7 @@
   image: rhizome.png
   tools:
     - Vite
+
 - time: 2022 Summer
   title: Public Arts Garage
   link: https://pag2022.uni-weimar.de/
@@ -20,6 +30,7 @@
   image: pag.png
   tools:
     - Vite
+
 - time: 2022 Summer
   title: A Map Interface for Public Arts Garage
   link: https://public-arts-garage.web.app/
@@ -29,6 +40,7 @@
     - Vite
     - Mapbox GL js
     - Flask
+
 - time: 2022 Summer
   title: Inevitable Forms
   link: https://github.com/ohyeahbravo/inevitable-forms
@@ -36,6 +48,7 @@
   image: inevitable-forms.png
   tools:
     - Vite
+
 - time: 2021 Winter
   title: Weather Diary
   link: https://github.com/ohyeahbravo/weather-variable-font
@@ -43,6 +56,7 @@
   image: weather-diary.png
   tools:
     - Vue.js
+
 - time: 2021 Summer
   title: Speed Variable font
   link: https://github.com/ohyeahbravo/speed-variable-font
@@ -50,6 +64,7 @@
   image: bitracing.png
   tools:
     - Vue.js
+
 - time: 2020 Summer
   title: A Visual Analysis Tool for Geolocation Inference Methods
   link: https://github.com/ohyeahbravo/location-extraction-analyzer
@@ -62,6 +77,7 @@
     - Mapbox GL js
     - Plotly.js
     - D3.js
+
 - time: 2019 Apr - 2020 May
   title: Social Media Monitor
   link: https://vimeo.com/489034145
