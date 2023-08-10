@@ -36,6 +36,7 @@
   link: https://public-arts-garage.web.app/
   desc: An interactive map for the project "Public Arts Garage", where users can create markers with contents on the map.
   image: pag-map.png
+  video: pag.mp4
   tools:
     - Vite
     - Mapbox GL js
