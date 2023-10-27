@@ -1,7 +1,7 @@
 ---
 - time: 2023 Summer
-  title: Plapperdu (In Progress)
-  link: https://plapperdu.web.app
+  title: BerEIT
+  link: https://bereit-berlin.web.app
   desc: A prototype web app for providing aid to children with speech development, with educational contents and interactive mini games.
   image: plapperdu.png
   tools:
