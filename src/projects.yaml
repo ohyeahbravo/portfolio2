@@ -1,4 +1,13 @@
 ---
+- time: 2024 Spring
+  title: Nogunri Interactive Map (노근리 웹지도)
+  link: https://nogunri.vercel.app/
+  desc: A web map for Nogunri Peace Park, where visitors can navigate and gain information on places without a human guide and can also share thoughts by making markers on the map.
+  image: nogunri.png
+  tools:
+    - Nuxt
+    - Supabase
+
 - time: 2023 Summer
   title: BerEIT
   link: https://bereit-berlin.web.app
